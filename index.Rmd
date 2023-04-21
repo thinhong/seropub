@@ -2,4 +2,4 @@
 title: "Sero-surveillance"
 ---
 
-[Children's hospitals sampling](docs/hcmc_children.html)
+[Children's hospitals sampling](hcmc_children.html)
